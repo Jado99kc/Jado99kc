@@ -23,8 +23,8 @@
 <p align="left">
 <a href="https://dev.to/@jado99kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@jado99kc" height="30" width="40" /></a>
 <a href="https://twitter.com/jado99kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jado99kc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jahdiel castaneda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahdiel castaneda" height="30" width="40" /></a>
-<a href="https://fb.com/jado drk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jado drk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jahdiel-castaneda-415578173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahdiel castaneda" height="30" width="40" /></a>
+<a href="https://fb.com/JKCUCHIHA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jado drk" height="30" width="40" /></a>
 <a href="https://instagram.com/j_the_continuum_breaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_the_continuum_breaker" height="30" width="40" /></a>
 </p>
 
